@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sage-arts Aman Sharma
+- 👋 Hi, I’m Aman Sharma @sage-arts
 - 👀 I’m interested in Competitive Programming and Web Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Full Stack Projects
