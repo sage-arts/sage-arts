@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Sharma @sage-arts
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me ... amanhelp0@gmail.com
 
